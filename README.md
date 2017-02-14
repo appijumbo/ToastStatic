@@ -10,3 +10,4 @@ It includes a members page though this was purely a dummy and subsequently remov
 Not that clicking the members tab in Github results in a '404'. You need to download this repo as say a zip file to see the members page.
 For convenience here is what it would look like
 
+![members page image](members page.jpg)
