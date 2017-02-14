@@ -1,4 +1,5 @@
 # ToastStatic
+https://appijumbo.github.io/ToastStatic/
 
 This was an initial static website design for a Toastmasters club website
 
